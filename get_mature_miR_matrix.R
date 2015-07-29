@@ -74,3 +74,4 @@ for(i in 2:length(mergeFiles)){
 data_matrix[is.na(data_matrix)] = 0
 
 write.table(data_matrix, file="miR_counts_matrix.txt", sep="\t", col.names=TRUE, row.names=FALSE)
+
