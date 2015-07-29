@@ -4,7 +4,7 @@ This repository will contain support scripts for TCGA-Assembler (www.compgenome.
 The R code "get_mature_miR_name.R" in conjunction with the lookup txt file "hsa_miR_accessionTOname.txt" may be used to convert individual sample isoform level miRNA  RNA-seq data downloaded via TCGA-Assembler to a matrix file for all samples, using mature miRNA names. For more information on downloading miRNA RNA-seq data, please see the TCGA-Assembler package linked above.
 
 ################
-#Example download of miR data using TCGA-Assembler and matrix file creation:
+#Example download of miRNA isoform level RNA-seq data using TCGA-Assembler and matrix file generation:
 
 >source("Module_A.r")
 >source("Module_B.r")
