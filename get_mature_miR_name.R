@@ -1,6 +1,6 @@
 
 #INPUT: 1) Lookup table of mature miR names and accession #s (hsa_miR_accessionTOname.txt)
-        2) a directpry of individual miRNA "isofom" level TCGA data matrices downloaded using TCGA-Assembler... i.e:
+#       2) a directpry of individual miRNA "isofom" level TCGA data matrices downloaded using TCGA-Assembler... i.e:
 #################################################################################
 #OUTPUT: an udpated data matrix with full miRNA names.
 #################################################################################
