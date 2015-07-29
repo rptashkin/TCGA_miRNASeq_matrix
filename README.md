@@ -16,6 +16,6 @@ inputPatientIDs = c("TCGA-BH-A18F-11A",...))
 
 >setwd("~/Desktop/BRCA/miRNA_Data")
 
-THEN RUN the "get_mature_miR_name.R" code 
+*THEN RUN the "get_mature_miR_name.R" code*
 
 Questions: r.ptashkin@gmail.com
