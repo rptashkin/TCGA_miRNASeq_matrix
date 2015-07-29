@@ -4,10 +4,6 @@
 #################################################################################
 #OUTPUT: an udpated data matrix with full miRNA names.
 #################################################################################
-#Ryan Ptashkin
-#16 April 2014
-#UPDATED:28 July 2015 to fix deprecated stringsplit function and to include MATRIX file generation!
-###################################################################################
 
 #change directory to a directory containing files to update and accessionTOname file
 
