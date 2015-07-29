@@ -12,10 +12,10 @@ The R code "get_mature_miR_name.R" in conjunction with the lookup txt file "hsa_
 >READ_miRNASeqRawData = DownloadmiRNASeqData(traverseResultFile = "./DirectoryTraverseResult_Mar-12-2014.rda", "~/Desktop/BRCA/miRNA_Data", cancerType = "BRCA", assayPlatform = "miRNASeq",
 inputPatientIDs = c("TCGA-BH-A18F-11A",...))
 
-#make sure you have copied "hsa_miR_accessionTOname.txt" file to the "~/Desktop/BRCA/miRNA_Data" working directory. 
+**make sure you have copied "hsa_miR_accessionTOname.txt" file to the "~/Desktop/BRCA/miRNA_Data" working directory**
 
 >setwd("~/Desktop/BRCA/miRNA_Data")
 
-#####THEN RUN the "get_mature_miR_name.R" code
+*THEN RUN the "get_mature_miR_name.R" code 
 
 Questions: r.ptashkin@gmail.com
