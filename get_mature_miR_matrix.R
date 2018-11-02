@@ -12,7 +12,7 @@ library(qdap)
 library(plyr)
 library(reshape)
 
-filenames = dir(pattern="*isoform.quantification.txt")
+filenames = dir(pattern="*isoforms.quantification.txt$")
 
 update_miRname = function(infile)
 {
